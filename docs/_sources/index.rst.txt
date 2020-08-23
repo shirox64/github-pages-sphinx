@@ -10,4 +10,8 @@ Welcome to sphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   sphinx
+   introduction
+   restructuredtext
+   githubpages
+   autobuild
+   markdown
